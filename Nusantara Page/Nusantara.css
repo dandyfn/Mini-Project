@@ -1,0 +1,262 @@
+.judul{
+    background-color: rgb(241, 78, 154);
+    width: 200px;
+    height: 80px;
+    padding-top: 13px;
+    text-align: center;
+    margin-top: 21px;
+}
+.batik1{
+    height: 80px;
+    width: 300px;
+    display: inline;
+    float: left;
+    margin-top: 21px;
+}
+.kepala{
+    display: grid;
+    grid-template-columns: 200px 300px 300px 400px;
+    grid-template-rows: 100px;
+    /* background-color: aquamarine; */
+}
+.batik2{
+    height: 80px; 
+    width: 300px;
+    display: inline;
+    float: left;
+    margin-top: 21px;
+}
+.batik3{
+    height: 80px;
+    width: 400px;
+    display: inline;
+    float: left;
+    margin-top: 21px;
+}
+.petaindonesia{
+    width: 600px;
+    margin: auto;
+}
+.peta1{
+    
+    margin-top: 70px;
+    margin-left: 25%; 
+    
+}
+.tabelpengenalan{
+     margin: auto; 
+    margin-top: 30px;
+}
+td{
+    background-color: blueviolet;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+.tabellambang{
+    margin: auto;
+    margin-top: 30px;
+    
+}
+.lambang{
+    width: 100px;
+}
+.judullambang{
+    height: 30px;
+    font-size: 13px;
+    background-color: rgb(50, 112, 212);
+}
+.wadahlambang{
+    background-color: rgb(30, 162, 223);
+}
+td.barispengenalan {
+    background-color: rgb(183, 129, 235);
+}
+ul.menu {
+    list-style-type: none;
+    border: 3px solid;
+    width: 100px;
+    margin-left: 50px;
+}
+.fotokota{
+    width: 300px;
+}
+.kota1{
+    float: left;
+    display: inline;
+    margin: 35px;
+}
+.ketkul{
+    display: inline;
+    float: left;
+    width: 300px;
+    margin-left: 20px;
+}
+.nasigoreng{
+    float: left;
+    display: inline;
+    width: 200px;
+}
+.kuliner{
+    border: 5px solid;
+    width: 600px;
+    height: 300px; 
+    padding-left: 25px;
+    margin-bottom: 30px;
+}
+.kontenkota{
+    width: 1200px;
+    height: 450px;
+}
+.contohperempuan{
+   
+    margin: auto;
+    width: 300px;
+    height: 450px;
+    text-align: center;
+}
+@media screen and (max-width:400px){
+    .peta1{
+        margin-top: 70px;
+      margin-left: 50%;
+    }
+    .tabelpengenalan{
+        margin: auto; 
+       margin-top: 30px;
+   }
+   .petaindonesia{
+    width: 900px;
+}
+td{
+    background-color: blueviolet; 
+    width: 550px;
+    height: 50px;
+     text-align: center; 
+}
+.thetabel{
+    width:800px;
+    margin-left: 65%;
+}
+.isi{
+    width: 1200px;
+}
+.kuliner{
+    margin: auto;
+    margin-bottom: 100px;
+}
+.contohperempuan{
+    margin: auto;
+}
+.kontenkota{
+    margin: 50px;
+}
+}
+
+@media screen and (min-width:600px) and (max-width:1000px){
+    .peta1{
+        margin-top: 70px;
+      margin-left: 20%;
+    }
+    .tabelpengenalan{
+        margin: auto; 
+       margin-top: 30px;
+   }
+   .petaindonesia{
+    width: 900px;
+}
+td{
+    background-color: blueviolet; 
+    width: 550px;
+    height: 50px;
+     text-align: center; 
+}
+.thetabel{
+    width:800px;
+    margin-left: 26%;
+}
+.isi{
+    width: 1200px;
+}
+.kuliner{
+    margin: auto;
+    margin-bottom: 100px;
+}
+.contohperempuan{
+    margin: auto;
+}
+.kontenkota{
+    margin: 65px;
+}
+}
+@media screen and (min-width:500px) and (max-width:600px){
+    .peta1{
+        margin-top: 70px;
+      margin-left: 35%;
+    }
+    .tabelpengenalan{
+        margin: auto; 
+       margin-top: 30px;
+   }
+   .petaindonesia{
+    width: 900px;
+}
+td{
+    background-color: blueviolet; 
+    width: 550px;
+    height: 50px;
+     text-align: center; 
+}
+.thetabel{
+    width:800px;
+    margin-left: 45%;
+}
+.isi{
+    width: 1200px;
+}
+.kuliner{
+    margin: auto;
+    margin-bottom: 100px;
+}
+.contohperempuan{
+    margin: auto;
+}
+.kontenkota{
+    margin: 65px;
+}
+}
+@media screen and (min-width:400px) and (max-width:500px){
+    .peta1{
+        margin-top: 70px;
+      margin-left: 42%;
+    }
+    .tabelpengenalan{
+        margin: auto; 
+       margin-top: 30px;
+   }
+   .petaindonesia{
+    width: 900px;
+}
+td{
+    background-color: blueviolet; 
+    width: 550px;
+    height: 50px;
+     text-align: center; 
+}
+.thetabel{
+    width:800px;
+    margin-left: 55%;
+}
+.isi{
+    width: 1200px;
+}
+.kuliner{
+    margin: auto;
+    margin-bottom: 100px;
+}
+.contohperempuan{
+    margin: auto;
+}
+.kontenkota{
+    margin: 60px;
+}
+}
