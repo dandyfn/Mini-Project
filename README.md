@@ -7,7 +7,9 @@
 konten ini mengandung 👇
 ### Bahasa :
 #### 🟣 Java
+#### 🟣 HTML/CSS
 
 ### Bentuk :
 #### 🟣 Permainan Sederhana
+#### 🟣 Laman WEB tidak interaktif
 
